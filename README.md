@@ -1,3 +1,3 @@
-# hello-world
+# maven-project
 
-it's a read me file.
+Simple Maven Project
